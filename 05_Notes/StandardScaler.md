@@ -1,4 +1,4 @@
-## StandardScaler
+## StandardScaler: - always use on X
 # What does StandardScaler do: 
 It transforms each feature approximately to:
 z=
